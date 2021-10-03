@@ -1,0 +1,14 @@
+html {
+    background-image: url("static/clockBackground.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: cornflowerblue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
