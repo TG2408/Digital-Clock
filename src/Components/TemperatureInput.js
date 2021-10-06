@@ -5,7 +5,7 @@ class temperatureInput extends React.Component {
     constructor(props){
         super(props);
     }
-
+ 
     // toCelsius = (fahrenheit) => {
     //    return (fahrenheit - 32) * 5 / 9;
     // }
