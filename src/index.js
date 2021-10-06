@@ -1,10 +1,13 @@
 import React from "react";
 import reactDom from "react-dom";
-import Clock from "./Clock.js";
+import Calculator from './Components/Calculator'
 
 const element = (
-    <Clock/>
+    <>
+        <Calculator/>
+    </>
 );
+
 
 reactDom.render(
     element, 
